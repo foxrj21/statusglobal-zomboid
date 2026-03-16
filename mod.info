@@ -1,0 +1,7 @@
+name=StatsGlobal
+poster=poster.png
+id=statsglobal
+description=HUD leve com barras de progresso: zumbis mortos, fome, sede, km andados e temperatura em Celsius. Compativel com multiplayer hosted.
+url=
+modversion=1.0
+pzversion=41-42
